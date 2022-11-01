@@ -1,0 +1,159 @@
+{
+  "categorieName": "Lines & Shapes",
+  "categorieId": 1,
+  "panelView": 5,
+  "hasSubCategory": false,
+
+  "data": [
+    {
+      "name": "shape1-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape1-01.svg"
+    },
+    {
+      "name": "shape2-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape2-01.svg"
+    },
+    {
+      "name": "shape3-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape3-01.svg"
+    },
+    {
+      "name": "shape4-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape4-01.svg"
+    },
+    {
+      "name": "shape5-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape5-01.svg"
+    },
+    {
+      "name": "shape6-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape6-01.svg"
+    },
+    {
+      "name": "shape7-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape7-01.svg"
+    },
+    {
+      "name": "shape8-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape8-01.svg"
+    },
+    {
+      "name": "shape9-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape9-01.svg"
+    },
+    {
+      "name": "shape10-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape10-01.svg"
+    },
+    {
+      "name": "shape11-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape11-01.svg"
+    },
+    {
+      "name": "shape12-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape12-01.svg"
+    },
+    {
+      "name": "shape13-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape13-01.svg"
+    },
+    {
+      "name": "shape14-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape14-01.svg"
+    },
+    {
+      "name": "shape15-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape15-01.svg"
+    },
+    {
+      "name": "shape16-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape16-01.svg"
+    },
+    {
+      "name": "shape17-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape17-01.svg"
+    },
+    {
+      "name": "shape18-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape18-01.svg"
+    },
+    {
+      "name": "shape19-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape19-01.svg"
+    },
+    {
+      "name": "shape20-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape20-01.svg"
+    },
+    {
+      "name": "shape22-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape22-01.svg"
+    },
+    {
+      "name": "shape23-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape23-01.svg"
+    },
+    {
+      "name": "shape24-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape24-01.svg"
+    },
+    {
+      "name": "shape25-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape25-01.svg"
+    },
+    {
+      "name": "shape26.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape26.svg"
+    },
+    {
+      "name": "shape27-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape27-01.svg"
+    },
+    {
+      "name": "shape28-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape28-01.svg"
+    },
+    {
+      "name": "shape29.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape29.svg"
+    },
+    {
+      "name": "shape30-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape30-01.svg"
+    },
+    {
+      "name": "shape31-01.svg",
+      "extension": "svg",
+      "path": "/linesAndShapes/shape31-01.svg"
+    }
+  ]
+}

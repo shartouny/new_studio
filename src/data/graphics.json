@@ -1,0 +1,3571 @@
+{
+  "categorieName": "Graphics",
+  "categorieId": 2,
+  "data": [
+    {
+      "subCategoryName": "4th of july",
+      "subCategoryId": 11,
+      "data": [
+        {
+          "name": "4thofjuly1.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly1.svg"
+        },
+        {
+          "name": "4thofjuly2.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly2.svg"
+        },
+        {
+          "name": "4thofjuly3.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly3.svg"
+        },
+
+        {
+          "name": "4thofjuly5.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly5.svg"
+        },
+        {
+          "name": "4thofjuly6.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly6.svg"
+        },
+        {
+          "name": "4thofjuly7.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly7.svg"
+        },
+        {
+          "name": "4thofjuly8.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly8.svg"
+        },
+        {
+          "name": "4thofjuly9.svg",
+          "extension": "svg",
+          "path": "/graphics/4thofjuly9.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Ancient",
+      "subCategoryId": 12,
+      "data": [
+        {
+          "name": "Ancient-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-01.svg"
+        },
+        {
+          "name": "Ancient-02.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-02.svg"
+        },
+        {
+          "name": "Ancient-03.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-03.svg"
+        },
+        {
+          "name": "Ancient-04.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-04.svg"
+        },
+        {
+          "name": "Ancient-05.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-05.svg"
+        },
+        {
+          "name": "Ancient-06.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-06.svg"
+        },
+        {
+          "name": "Ancient-07.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-07.svg"
+        },
+        {
+          "name": "Ancient-08.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-08.svg"
+        },
+        {
+          "name": "Ancient-09.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-09.svg"
+        },
+        {
+          "name": "Ancient-10.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-10.svg"
+        },
+        {
+          "name": "Ancient-11.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-11.svg"
+        },
+        {
+          "name": "Ancient-12.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-12.svg"
+        },
+        {
+          "name": "Ancient-13.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-13.svg"
+        },
+        {
+          "name": "Ancient-14-14.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-14-14.svg"
+        },
+        {
+          "name": "Ancient-15.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-15.svg"
+        },
+        {
+          "name": "Ancient-16.svg",
+          "extension": "svg",
+          "path": "/graphics/Ancient-16.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Animals",
+      "subCategoryId": 13,
+      "data": [
+        {
+          "name": "animals-01.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-01.svg"
+        },
+        {
+          "name": "animals-02.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-02.svg"
+        },
+        {
+          "name": "animals-03.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-03.svg"
+        },
+        {
+          "name": "animals-04.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-04.svg"
+        },
+        {
+          "name": "animals-05.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-05.svg"
+        },
+        {
+          "name": "animals-06.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-06.svg"
+        },
+        {
+          "name": "animals-07.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-07.svg"
+        },
+        {
+          "name": "animals-08.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-08.svg"
+        },
+        {
+          "name": "animals-09.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-09.svg"
+        },
+        {
+          "name": "animals-10.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-10.svg"
+        },
+        {
+          "name": "animals-11.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-11.svg"
+        },
+        {
+          "name": "animals-12.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-12.svg"
+        },
+        {
+          "name": "animals-13.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-13.svg"
+        },
+        {
+          "name": "animals-14.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-14.svg"
+        },
+        {
+          "name": "animals-15.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-15.svg"
+        },
+        {
+          "name": "animals-16.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-16.svg"
+        },
+        {
+          "name": "animals-17.svg",
+          "extension": "svg",
+          "path": "/graphics/animals-17.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Back to school",
+      "subCategoryId": 14,
+      "data": [
+        {
+          "name": "backtoschool-01.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-01.svg"
+        },
+        {
+          "name": "backtoschool-02.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-02.svg"
+        },
+        {
+          "name": "backtoschool-03.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-03.svg"
+        },
+        {
+          "name": "backtoschool-04.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-04.svg"
+        },
+        {
+          "name": "backtoschool-05.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-05.svg"
+        },
+        {
+          "name": "backtoschool-06.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-06.svg"
+        },
+        {
+          "name": "backtoschool-07.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-07.svg"
+        },
+        {
+          "name": "backtoschool-08.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-08.svg"
+        },
+        {
+          "name": "backtoschool-09.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-09.svg"
+        },
+        {
+          "name": "backtoschool-10.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-10.svg"
+        },
+        {
+          "name": "backtoschool-11.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-11.svg"
+        },
+        {
+          "name": "backtoschool-12.svg",
+          "extension": "svg",
+          "path": "/graphics/backtoschool-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Birthday",
+      "subCategoryId": 15,
+      "data": [
+        {
+          "name": "birthday1.svg",
+          "extension": "svg",
+          "path": "/graphics/birthday1.svg"
+        },
+        {
+          "name": "birthday2.svg",
+          "extension": "svg",
+          "path": "/graphics/birthday2.svg"
+        },
+        {
+          "name": "birthday3.svg",
+          "extension": "svg",
+          "path": "/graphics/birthday3.svg"
+        },
+        {
+          "name": "birthday4.svg",
+          "extension": "svg",
+          "path": "/graphics/birthday4.svg"
+        },
+        {
+          "name": "birthday5.svg",
+          "extension": "svg",
+          "path": "/graphics/birthday5.svg"
+        },
+        {
+          "name": "birthday6.svg",
+          "extension": "svg",
+          "path": "/graphics/birthday6.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Bohemian",
+      "subCategoryId": 16,
+      "data": [
+        {
+          "name": "Boho1-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho1-01.svg"
+        },
+        {
+          "name": "Boho2-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho2-01.svg"
+        },
+        {
+          "name": "Boho3-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho3-01.svg"
+        },
+        {
+          "name": "Boho4-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho4-01.svg"
+        },
+        {
+          "name": "Boho5-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho5-01.svg"
+        },
+        {
+          "name": "Boho6-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho6-01.svg"
+        },
+        {
+          "name": "Boho7-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho7-01.svg"
+        },
+        {
+          "name": "Boho8-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho8-01.svg"
+        },
+        {
+          "name": "Boho9-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho9-01.svg"
+        },
+        {
+          "name": "Boho10-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Boho10-01.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Camping",
+      "subCategoryId": 17,
+      "data": [
+        {
+          "name": "camping-01.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-01.svg"
+        },
+        {
+          "name": "camping-02.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-02.svg"
+        },
+        {
+          "name": "camping-03.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-03.svg"
+        },
+        {
+          "name": "camping-04.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-04.svg"
+        },
+        {
+          "name": "camping-05.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-05.svg"
+        },
+        {
+          "name": "camping-06.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-06.svg"
+        },
+        {
+          "name": "camping-07.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-07.svg"
+        },
+        {
+          "name": "camping-08.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-08.svg"
+        },
+        {
+          "name": "camping-09.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-09.svg"
+        },
+        {
+          "name": "camping-10.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-10.svg"
+        },
+        {
+          "name": "camping-11.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-11.svg"
+        },
+        {
+          "name": "camping-12.svg",
+          "extension": "svg",
+          "path": "/graphics/camping-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Christmas",
+      "subCategoryId": 18,
+      "data": [
+        {
+          "name": "christmas1.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas1.svg"
+        },
+        {
+          "name": "christmas2.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas2.svg"
+        },
+        {
+          "name": "christmas3.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas3.svg"
+        },
+        {
+          "name": "christmas4.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas4.svg"
+        },
+        {
+          "name": "christmas5.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas5.svg"
+        },
+        {
+          "name": "christmas6.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas6.svg"
+        },
+        {
+          "name": "christmas7.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas7.svg"
+        },
+        {
+          "name": "christmas8.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas8.svg"
+        },
+        {
+          "name": "christmas9.svg",
+          "extension": "svg",
+          "path": "/graphics/christmas9.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Cold drinks",
+      "subCategoryId": 19,
+      "data": [
+        {
+          "name": "colddrinks-01.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-01.svg"
+        },
+        {
+          "name": "colddrinks-02.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-02.svg"
+        },
+        {
+          "name": "colddrinks-03.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-03.svg"
+        },
+        {
+          "name": "colddrinks-04.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-04.svg"
+        },
+        {
+          "name": "colddrinks-05.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-05.svg"
+        },
+        {
+          "name": "colddrinks-06.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-06.svg"
+        },
+        {
+          "name": "colddrinks-07.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-07.svg"
+        },
+        {
+          "name": "colddrinks-08.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-08.svg"
+        },
+        {
+          "name": "colddrinks-09.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-09.svg"
+        },
+        {
+          "name": "colddrinks-10.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-10.svg"
+        },
+        {
+          "name": "colddrinks-11.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-11.svg"
+        },
+        {
+          "name": "colddrinks-12.svg",
+          "extension": "svg",
+          "path": "/graphics/colddrinks-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Corporate",
+      "subCategoryId": 20,
+      "data": [
+        {
+          "name": "corporate-01.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-01.svg"
+        },
+        {
+          "name": "corporate-02.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-02.svg"
+        },
+        {
+          "name": "corporate-03.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-03.svg"
+        },
+        {
+          "name": "corporate-04.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-04.svg"
+        },
+        {
+          "name": "corporate-05.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-05.svg"
+        },
+        {
+          "name": "corporate-06.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-06.svg"
+        },
+        {
+          "name": "corporate-07.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-07.svg"
+        },
+        {
+          "name": "corporate-08.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-08.svg"
+        },
+        {
+          "name": "corporate-09.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-09.svg"
+        },
+        {
+          "name": "corporate-10.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-10.svg"
+        },
+        {
+          "name": "corporate-11.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-11.svg"
+        },
+        {
+          "name": "corporate-12.svg",
+          "extension": "svg",
+          "path": "/graphics/corporate-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Dance",
+      "subCategoryId": 21,
+      "data": [
+        {
+          "name": "dance-01.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-01.svg"
+        },
+        {
+          "name": "dance-02.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-02.svg"
+        },
+        {
+          "name": "dance-03.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-03.svg"
+        },
+        {
+          "name": "dance-04.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-04.svg"
+        },
+        {
+          "name": "dance-05.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-05.svg"
+        },
+        {
+          "name": "dance-06.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-06.svg"
+        },
+        {
+          "name": "dance-07.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-07.svg"
+        },
+        {
+          "name": "dance-08.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-08.svg"
+        },
+        {
+          "name": "dance-09.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-09.svg"
+        },
+        {
+          "name": "dance-10.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-10.svg"
+        },
+        {
+          "name": "dance-11.svg",
+          "extension": "svg",
+          "path": "/graphics/dance-11.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Dogs breed",
+      "subCategoryId": 22,
+      "data": [
+        {
+          "name": "dogsbreed-01.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-01.svg"
+        },
+        {
+          "name": "dogsbreed-02.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-02.svg"
+        },
+        {
+          "name": "dogsbreed-03.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-03.svg"
+        },
+        {
+          "name": "dogsbreed-04.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-04.svg"
+        },
+        {
+          "name": "dogsbreed-05.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-05.svg"
+        },
+        {
+          "name": "dogsbreed-06.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-06.svg"
+        },
+        {
+          "name": "dogsbreed-07.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-07.svg"
+        },
+        {
+          "name": "dogsbreed-08.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-08.svg"
+        },
+        {
+          "name": "dogsbreed-09.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-09.svg"
+        },
+        {
+          "name": "dogsbreed-10.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-10.svg"
+        },
+        {
+          "name": "dogsbreed-11.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-11.svg"
+        },
+        {
+          "name": "dogsbreed-12.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-12.svg"
+        },
+        {
+          "name": "dogsbreed-13.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-13.svg"
+        },
+        {
+          "name": "dogsbreed-14.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-14.svg"
+        },
+        {
+          "name": "dogsbreed-15.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-15.svg"
+        },
+        {
+          "name": "dogsbreed-16.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-16.svg"
+        },
+        {
+          "name": "dogsbreed-17.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-17.svg"
+        },
+        {
+          "name": "dogsbreed-18.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-18.svg"
+        },
+        {
+          "name": "dogsbreed-19.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-19.svg"
+        },
+        {
+          "name": "dogsbreed-20.svg",
+          "extension": "svg",
+          "path": "/graphics/dogsbreed-20.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Doodles",
+      "subCategoryId": 23,
+      "data": [
+        {
+          "name": "doodles1.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles1.svg"
+        },
+        {
+          "name": "doodles2.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles2.svg"
+        },
+        {
+          "name": "doodles3.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles3.svg"
+        },
+        {
+          "name": "doodles4.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles4.svg"
+        },
+        {
+          "name": "doodles5.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles5.svg"
+        },
+        {
+          "name": "doodles6.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles6.svg"
+        },
+        {
+          "name": "doodles7.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles7.svg"
+        },
+        {
+          "name": "doodles9.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles9.svg"
+        },
+        {
+          "name": "doodles10.svg",
+          "extension": "svg",
+          "path": "/graphics/doodles10.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Easter",
+      "subCategoryId": 24,
+      "data": [
+        {
+          "name": "1-01.svg",
+          "extension": "svg",
+          "path": "/graphics/1-01.svg"
+        },
+        {
+          "name": "2-01.svg",
+          "extension": "svg",
+          "path": "/graphics/2-01.svg"
+        },
+        {
+          "name": "3-01.svg",
+          "extension": "svg",
+          "path": "/graphics/3-01.svg"
+        },
+        {
+          "name": "4-01.svg",
+          "extension": "svg",
+          "path": "/graphics/4-01.svg"
+        },
+        {
+          "name": "5-01.svg",
+          "extension": "svg",
+          "path": "/graphics/5-01.svg"
+        },
+        {
+          "name": "6-01.svg",
+          "extension": "svg",
+          "path": "/graphics/6-01.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Electronics",
+      "subCategoryId": 25,
+      "data": [
+        {
+          "name": "electronics-01.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-01.svg"
+        },
+        {
+          "name": "electronics-02.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-02.svg"
+        },
+        {
+          "name": "electronics-03.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-03.svg"
+        },
+        {
+          "name": "electronics-04.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-04.svg"
+        },
+        {
+          "name": "electronics-05.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-05.svg"
+        },
+        {
+          "name": "electronics-06.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-06.svg"
+        },
+        {
+          "name": "electronics-07.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-07.svg"
+        },
+        {
+          "name": "electronics-08.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-08.svg"
+        },
+        {
+          "name": "electronics-09.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-09.svg"
+        },
+        {
+          "name": "electronics-10.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-10.svg"
+        },
+        {
+          "name": "electronics-11.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-11.svg"
+        },
+        {
+          "name": "electronics-12.svg",
+          "extension": "svg",
+          "path": "/graphics/electronics-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Emotions",
+      "subCategoryId": 26,
+      "data": [
+        {
+          "name": "emotions-01.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-01.svg"
+        },
+        {
+          "name": "emotions-02.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-02.svg"
+        },
+        {
+          "name": "emotions-03.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-03.svg"
+        },
+        {
+          "name": "emotions-04.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-04.svg"
+        },
+        {
+          "name": "emotions-05.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-05.svg"
+        },
+        {
+          "name": "emotions-06.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-06.svg"
+        },
+        {
+          "name": "emotions-07.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-07.svg"
+        },
+        {
+          "name": "emotions-08.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-08.svg"
+        },
+        {
+          "name": "emotions-09.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-09.svg"
+        },
+        {
+          "name": "emotions-10.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-10.svg"
+        },
+        {
+          "name": "emotions-11.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-11.svg"
+        },
+        {
+          "name": "emotions-12.svg",
+          "extension": "svg",
+          "path": "/graphics/emotions-12.svg"
+        }
+      ]
+    },
+
+    {
+      "subCategoryName": "Employee",
+      "subCategoryId": 27,
+      "data": [
+        {
+          "name": "newemployee-01.svg",
+          "extension": "svg",
+          "path": "/graphics/newemployee-01.svg"
+        },
+        {
+          "name": "newemployee-02.svg",
+          "extension": "svg",
+          "path": "/graphics/newemployee-02.svg"
+        },
+        {
+          "name": "newemployee-03.svg",
+          "extension": "svg",
+          "path": "/graphics/newemployee-03.svg"
+        },
+        {
+          "name": "newemployee-04.svg",
+          "extension": "svg",
+          "path": "/graphics/newemployee-04.svg"
+        },
+        {
+          "name": "newemployee-05.svg",
+          "extension": "svg",
+          "path": "/graphics/newemployee-05.svg"
+        },
+        {
+          "name": "newemployee-06.svg",
+          "extension": "svg",
+          "path": "/graphics/newemployee-06.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Fast food",
+      "subCategoryId": 28,
+      "data": [
+        {
+          "name": "Fastfood-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-01.svg"
+        },
+        {
+          "name": "Fastfood-02.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-02.svg"
+        },
+        {
+          "name": "Fastfood-03.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-03.svg"
+        },
+        {
+          "name": "Fastfood-04.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-04.svg"
+        },
+        {
+          "name": "Fastfood-05.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-05.svg"
+        },
+        {
+          "name": "Fastfood-06.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-06.svg"
+        },
+        {
+          "name": "Fastfood-07.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-07.svg"
+        },
+        {
+          "name": "Fastfood-08.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-08.svg"
+        },
+        {
+          "name": "Fastfood-09.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-09.svg"
+        },
+        {
+          "name": "Fastfood-10.svg",
+          "extension": "svg",
+          "path": "/graphics/Fastfood-10.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Father day",
+      "subCategoryId": 29,
+      "data": [
+        {
+          "name": "fatherday1.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday1.svg"
+        },
+        {
+          "name": "fatherday2.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday2.svg"
+        },
+        {
+          "name": "fatherday3.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday3.svg"
+        },
+        {
+          "name": "fatherday4.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday4.svg"
+        },
+        {
+          "name": "fatherday5.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday5.svg"
+        },
+        {
+          "name": "fatherday6.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday6.svg"
+        },
+        {
+          "name": "fatherday7.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday7.svg"
+        },
+        {
+          "name": "fatherday8.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday8.svg"
+        },
+        {
+          "name": "fatherday9.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday9.svg"
+        },
+        {
+          "name": "fatherday10.svg",
+          "extension": "svg",
+          "path": "/graphics/fatherday10.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Fruits",
+      "subCategoryId": 30,
+      "data": [
+        {
+          "name": "fruits-01.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-01.svg"
+        },
+        {
+          "name": "fruits-02.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-02.svg"
+        },
+        {
+          "name": "fruits-03.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-03.svg"
+        },
+        {
+          "name": "fruits-04.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-04.svg"
+        },
+        {
+          "name": "fruits-05.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-05.svg"
+        },
+        {
+          "name": "fruits-06.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-06.svg"
+        },
+        {
+          "name": "fruits-07.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-07.svg"
+        },
+        {
+          "name": "fruits-08.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-08.svg"
+        },
+        {
+          "name": "fruits-09.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-09.svg"
+        },
+        {
+          "name": "fruits-10.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-10.svg"
+        },
+        {
+          "name": "fruits-11.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-11.svg"
+        },
+        {
+          "name": "fruits-12.svg",
+          "extension": "svg",
+          "path": "/graphics/fruits-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Gaming",
+      "subCategoryId": 31,
+      "data": [
+        {
+          "name": "gaming-01.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-01.svg"
+        },
+        {
+          "name": "gaming-02.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-02.svg"
+        },
+        {
+          "name": "gaming-03.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-03.svg"
+        },
+        {
+          "name": "gaming-04.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-04.svg"
+        },
+        {
+          "name": "gaming-05.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-05.svg"
+        },
+        {
+          "name": "gaming-06.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-06.svg"
+        },
+        {
+          "name": "gaming-07.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-07.svg"
+        },
+        {
+          "name": "gaming-08.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-08.svg"
+        },
+        {
+          "name": "gaming-09.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-09.svg"
+        },
+        {
+          "name": "gaming-10.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-10.svg"
+        },
+        {
+          "name": "gaming-11.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-11.svg"
+        },
+        {
+          "name": "gaming-12.svg",
+          "extension": "svg",
+          "path": "/graphics/gaming-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Gender reveal",
+      "subCategoryId": 32,
+      "data": [
+        {
+          "name": "genderreveal-01.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-01.svg"
+        },
+        {
+          "name": "genderreveal-02.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-02.svg"
+        },
+        {
+          "name": "genderreveal-03.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-03.svg"
+        },
+        {
+          "name": "genderreveal-04.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-04.svg"
+        },
+        {
+          "name": "genderreveal-05.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-05.svg"
+        },
+        {
+          "name": "genderreveal-06.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-06.svg"
+        },
+        {
+          "name": "genderreveal-07.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-07.svg"
+        },
+        {
+          "name": "genderreveal-08.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-08.svg"
+        },
+        {
+          "name": "genderreveal-09.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-09.svg"
+        },
+        {
+          "name": "genderreveal-10.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-10.svg"
+        },
+        {
+          "name": "genderreveal-11.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-11.svg"
+        },
+        {
+          "name": "genderreveal-12.svg",
+          "extension": "svg",
+          "path": "/graphics/genderreveal-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Graduation",
+      "subCategoryId": 33,
+      "data": [
+        {
+          "name": "graduation1-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation1-01.svg"
+        },
+        {
+          "name": "graduation2-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation2-01.svg"
+        },
+        {
+          "name": "graduation3-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation3-01.svg"
+        },
+        {
+          "name": "graduation4-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation4-01.svg"
+        },
+        {
+          "name": "graduation5-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation5-01.svg"
+        },
+        {
+          "name": "graduation6-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation6-01.svg"
+        },
+        {
+          "name": "graduation7-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation7-01.svg"
+        },
+        {
+          "name": "graduation8-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation8-01.svg"
+        },
+        {
+          "name": "graduation9-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation9-01.svg"
+        },
+        {
+          "name": "graduation10-01.svg",
+          "extension": "svg",
+          "path": "/graphics/graduation10-01.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Hands",
+      "subCategoryId": 34,
+      "data": [
+        {
+          "name": "hands-01.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-01.svg"
+        },
+        {
+          "name": "hands-02.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-02.svg"
+        },
+        {
+          "name": "hands-03.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-03.svg"
+        },
+        {
+          "name": "hands-04.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-04.svg"
+        },
+        {
+          "name": "hands-05.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-05.svg"
+        },
+        {
+          "name": "hands-06.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-06.svg"
+        },
+        {
+          "name": "hands-07.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-07.svg"
+        },
+        {
+          "name": "hands-08.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-08.svg"
+        },
+        {
+          "name": "hands-09.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-09.svg"
+        },
+        {
+          "name": "hands-10.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-10.svg"
+        },
+        {
+          "name": "hands-11.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-11.svg"
+        },
+        {
+          "name": "hands-12.svg",
+          "extension": "svg",
+          "path": "/graphics/hands-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Hot drinks",
+      "subCategoryId": 35,
+      "data": [
+        {
+          "name": "hotdrinks-05-01.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-01.svg"
+        },
+        {
+          "name": "hotdrinks-05-02.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-02.svg"
+        },
+        {
+          "name": "hotdrinks-05-03.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-03.svg"
+        },
+        {
+          "name": "hotdrinks-05-04.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-04.svg"
+        },
+        {
+          "name": "hotdrinks-05-05.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-05.svg"
+        },
+        {
+          "name": "hotdrinks-05-06.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-06.svg"
+        },
+        {
+          "name": "hotdrinks-05-07.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-07.svg"
+        },
+        {
+          "name": "hotdrinks-05-08.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-05-08.svg"
+        },
+        {
+          "name": "hotdrinks-09.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-09.svg"
+        },
+        {
+          "name": "hotdrinks-10.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-10.svg"
+        },
+        {
+          "name": "hotdrinks-11.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-11.svg"
+        },
+        {
+          "name": "hotdrinks-12.svg",
+          "extension": "svg",
+          "path": "/graphics/hotdrinks-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Instruments",
+      "subCategoryId": 36,
+      "data": [
+        {
+          "name": "instruments-01.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-01.svg"
+        },
+        {
+          "name": "instruments-02.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-02.svg"
+        },
+        {
+          "name": "instruments-03.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-03.svg"
+        },
+        {
+          "name": "instruments-04.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-04.svg"
+        },
+        {
+          "name": "instruments-05.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-05.svg"
+        },
+        {
+          "name": "instruments-06.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-06.svg"
+        },
+        {
+          "name": "instruments-07.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-07.svg"
+        },
+        {
+          "name": "instruments-08.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-08.svg"
+        },
+        {
+          "name": "instruments-09.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-09.svg"
+        },
+        {
+          "name": "instruments-10.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-10.svg"
+        },
+        {
+          "name": "instruments-11.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-11.svg"
+        },
+        {
+          "name": "instruments-12.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-12.svg"
+        },
+        {
+          "name": "instruments-13.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-13.svg"
+        },
+        {
+          "name": "instruments-14.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-14.svg"
+        },
+        {
+          "name": "instruments-15.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-15.svg"
+        },
+        {
+          "name": "instruments-16.svg",
+          "extension": "svg",
+          "path": "/graphics/instruments-16.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Kids day",
+      "subCategoryId": 37,
+      "data": [
+        {
+          "name": "kidsday-01.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-01.svg"
+        },
+        {
+          "name": "kidsday-02.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-02.svg"
+        },
+        {
+          "name": "kidsday-03.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-03.svg"
+        },
+        {
+          "name": "kidsday-04.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-04.svg"
+        },
+        {
+          "name": "kidsday-05.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-05.svg"
+        },
+        {
+          "name": "kidsday-06.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-06.svg"
+        },
+        {
+          "name": "kidsday-07.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-07.svg"
+        },
+        {
+          "name": "kidsday-08.svg",
+          "extension": "svg",
+          "path": "/graphics/kidsday-08.svg"
+        },
+        {
+          "name": "outline-01.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-01.svg"
+        },
+        {
+          "name": "outline-02.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-02.svg"
+        },
+        {
+          "name": "outline-03.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-03.svg"
+        },
+        {
+          "name": "outline-04.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-04.svg"
+        },
+        {
+          "name": "outline-05.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-05.svg"
+        },
+        {
+          "name": "outline-06.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-06.svg"
+        },
+        {
+          "name": "outline-07.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-07.svg"
+        },
+        {
+          "name": "outline-08.svg",
+          "extension": "svg",
+          "path": "/graphics/outline-08.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Land marks",
+      "subCategoryId": 38,
+      "data": [
+        {
+          "name": "landmarks.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks.svg"
+        },
+        {
+          "name": "landmarks-01.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-01.svg"
+        },
+        {
+          "name": "landmarks-02.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-02.svg"
+        },
+        {
+          "name": "landmarks-03.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-03.svg"
+        },
+        {
+          "name": "landmarks-04.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-04.svg"
+        },
+        {
+          "name": "landmarks-05.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-05.svg"
+        },
+        {
+          "name": "landmarks-06.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-06.svg"
+        },
+        {
+          "name": "landmarks-07.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-07.svg"
+        },
+        {
+          "name": "landmarks-08.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-08.svg"
+        },
+        {
+          "name": "landmarks-09.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-09.svg"
+        },
+        {
+          "name": "landmarks-10.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-10.svg"
+        },
+        {
+          "name": "landmarks-11.svg",
+          "extension": "svg",
+          "path": "/graphics/landmarks-11.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Letters",
+      "subCategoryId": 39,
+      "data": [
+        {
+          "name": "A.svg",
+          "extension": "svg",
+          "path": "/graphics/A.svg"
+        },
+        {
+          "name": "B.svg",
+          "extension": "svg",
+          "path": "/graphics/B.svg"
+        },
+        {
+          "name": "C.svg",
+          "extension": "svg",
+          "path": "/graphics/C.svg"
+        },
+        {
+          "name": "D.svg",
+          "extension": "svg",
+          "path": "/graphics/D.svg"
+        },
+        {
+          "name": "E.svg",
+          "extension": "svg",
+          "path": "/graphics/E.svg"
+        },
+        {
+          "name": "F.svg",
+          "extension": "svg",
+          "path": "/graphics/F.svg"
+        },
+        {
+          "name": "G.svg",
+          "extension": "svg",
+          "path": "/graphics/G.svg"
+        },
+        {
+          "name": "H.svg",
+          "extension": "svg",
+          "path": "/graphics/H.svg"
+        },
+        {
+          "name": "I.svg",
+          "extension": "svg",
+          "path": "/graphics/I.svg"
+        },
+        {
+          "name": "J.svg",
+          "extension": "svg",
+          "path": "/graphics/J.svg"
+        },
+        {
+          "name": "K.svg",
+          "extension": "svg",
+          "path": "/graphics/K.svg"
+        },
+        {
+          "name": "L.svg",
+          "extension": "svg",
+          "path": "/graphics/L.svg"
+        },
+        {
+          "name": "M.svg",
+          "extension": "svg",
+          "path": "/graphics/M.svg"
+        },
+        {
+          "name": "N.svg",
+          "extension": "svg",
+          "path": "/graphics/N.svg"
+        },
+        {
+          "name": "O.svg",
+          "extension": "svg",
+          "path": "/graphics/O.svg"
+        },
+        {
+          "name": "P.svg",
+          "extension": "svg",
+          "path": "/graphics/P.svg"
+        },
+        {
+          "name": "Q.svg",
+          "extension": "svg",
+          "path": "/graphics/Q.svg"
+        },
+        {
+          "name": "R.svg",
+          "extension": "svg",
+          "path": "/graphics/R.svg"
+        },
+        {
+          "name": "S.svg",
+          "extension": "svg",
+          "path": "/graphics/S.svg"
+        },
+        {
+          "name": "T.svg",
+          "extension": "svg",
+          "path": "/graphics/T.svg"
+        },
+        {
+          "name": "U.svg",
+          "extension": "svg",
+          "path": "/graphics/U.svg"
+        },
+        {
+          "name": "V.svg",
+          "extension": "svg",
+          "path": "/graphics/V.svg"
+        },
+        {
+          "name": "W.svg",
+          "extension": "svg",
+          "path": "/graphics/W.svg"
+        },
+        {
+          "name": "X.svg",
+          "extension": "svg",
+          "path": "/graphics/X.svg"
+        },
+        {
+          "name": "Y.svg",
+          "extension": "svg",
+          "path": "/graphics/Y.svg"
+        },
+        {
+          "name": "Z.svg",
+          "extension": "svg",
+          "path": "/graphics/Z.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Make up",
+      "subCategoryId": 40,
+      "data": [
+        {
+          "name": "makeup-01.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-01.svg"
+        },
+        {
+          "name": "makeup-02.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-02.svg"
+        },
+        {
+          "name": "makeup-03.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-03.svg"
+        },
+        {
+          "name": "makeup-04.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-04.svg"
+        },
+        {
+          "name": "makeup-05.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-05.svg"
+        },
+        {
+          "name": "makeup-06.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-06.svg"
+        },
+        {
+          "name": "makeup-07.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-07.svg"
+        },
+        {
+          "name": "makeup-08.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-08.svg"
+        },
+        {
+          "name": "makeup-09.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-09.svg"
+        },
+        {
+          "name": "makeup-10.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-10.svg"
+        },
+        {
+          "name": "makeup-11.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-11.svg"
+        },
+        {
+          "name": "makeup-12.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-12.svg"
+        },
+        {
+          "name": "makeup-13.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-13.svg"
+        },
+        {
+          "name": "makeup-14.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-14.svg"
+        },
+        {
+          "name": "makeup-15.svg",
+          "extension": "svg",
+          "path": "/graphics/makeup-15.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Mandala",
+      "subCategoryId": 41,
+      "data": [
+        {
+          "name": "mandala.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala.svg"
+        },
+        {
+          "name": "mandala-01.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-01.svg"
+        },
+        {
+          "name": "mandala-02.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-02.svg"
+        },
+        {
+          "name": "mandala-03.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-03.svg"
+        },
+        {
+          "name": "mandala-04.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-04.svg"
+        },
+        {
+          "name": "mandala-05.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-05.svg"
+        },
+        {
+          "name": "mandala-06.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-06.svg"
+        },
+        {
+          "name": "mandala-07.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-07.svg"
+        },
+        {
+          "name": "mandala-08.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-08.svg"
+        },
+        {
+          "name": "mandala-09.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-09.svg"
+        },
+        {
+          "name": "mandala-10.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-10.svg"
+        },
+        {
+          "name": "mandala-11.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-11.svg"
+        },
+        {
+          "name": "mandala-12.svg",
+          "extension": "svg",
+          "path": "/graphics/mandala-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Marriage",
+      "subCategoryId": 42,
+      "data": [
+        {
+          "name": "marriage1-01.svg",
+          "extension": "svg",
+          "path": "/graphics/marriage1-01.svg"
+        },
+        {
+          "name": "marriage2-01.svg",
+          "extension": "svg",
+          "path": "/graphics/marriage2-01.svg"
+        },
+        {
+          "name": "marriage3-01.svg",
+          "extension": "svg",
+          "path": "/graphics/marriage3-01.svg"
+        },
+        {
+          "name": "marriage4-01.svg",
+          "extension": "svg",
+          "path": "/graphics/marriage4-01.svg"
+        },
+        {
+          "name": "marriage5-01.svg",
+          "extension": "svg",
+          "path": "/graphics/marriage5-01.svg"
+        },
+        {
+          "name": "marriage6-01.svg",
+          "extension": "svg",
+          "path": "/graphics/marriage6-01.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Math",
+      "subCategoryId": 43,
+      "data": [
+        {
+          "name": "math-01.svg",
+          "extension": "svg",
+          "path": "/graphics/math-01.svg"
+        },
+        {
+          "name": "math-02.svg",
+          "extension": "svg",
+          "path": "/graphics/math-02.svg"
+        },
+        {
+          "name": "math-03.svg",
+          "extension": "svg",
+          "path": "/graphics/math-03.svg"
+        },
+        {
+          "name": "math-04.svg",
+          "extension": "svg",
+          "path": "/graphics/math-04.svg"
+        },
+        {
+          "name": "math-05.svg",
+          "extension": "svg",
+          "path": "/graphics/math-05.svg"
+        },
+        {
+          "name": "math-06.svg",
+          "extension": "svg",
+          "path": "/graphics/math-06.svg"
+        },
+        {
+          "name": "math-07.svg",
+          "extension": "svg",
+          "path": "/graphics/math-07.svg"
+        },
+        {
+          "name": "math-08.svg",
+          "extension": "svg",
+          "path": "/graphics/math-08.svg"
+        },
+        {
+          "name": "math-09.svg",
+          "extension": "svg",
+          "path": "/graphics/math-09.svg"
+        },
+        {
+          "name": "math-10.svg",
+          "extension": "svg",
+          "path": "/graphics/math-10.svg"
+        },
+        {
+          "name": "math-11.svg",
+          "extension": "svg",
+          "path": "/graphics/math-11.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Monsters",
+      "subCategoryId": 44,
+      "data": [
+        {
+          "name": "monsters-01.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-01.svg"
+        },
+        {
+          "name": "monsters-02.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-02.svg"
+        },
+        {
+          "name": "monsters-03.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-03.svg"
+        },
+        {
+          "name": "monsters-04.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-04.svg"
+        },
+        {
+          "name": "monsters-05.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-05.svg"
+        },
+        {
+          "name": "monsters-06.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-06.svg"
+        },
+        {
+          "name": "monsters-07.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-07.svg"
+        },
+        {
+          "name": "monsters-08.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-08.svg"
+        },
+        {
+          "name": "monsters-09.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-09.svg"
+        },
+        {
+          "name": "monsters-10.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-10.svg"
+        },
+        {
+          "name": "monsters-11.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-11.svg"
+        },
+        {
+          "name": "monsters-12.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-12.svg"
+        },
+        {
+          "name": "monsters-13.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-13.svg"
+        },
+        {
+          "name": "monsters-14.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-14.svg"
+        },
+        {
+          "name": "monsters-15.svg",
+          "extension": "svg",
+          "path": "/graphics/monsters-15.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Mothers day",
+      "subCategoryId": 45,
+      "data": [
+        {
+          "name": "mother1.svg",
+          "extension": "svg",
+          "path": "/graphics/mother1-01.svg"
+        },
+        {
+          "name": "mother2.svg",
+          "extension": "svg",
+          "path": "/graphics/mother2-01.svg"
+        },
+        {
+          "name": "mother3",
+          "extension": "svg",
+          "path": "/graphics/mother3.svg"
+        },
+        {
+          "name": "mother4.svg",
+          "extension": "svg",
+          "path": "/graphics/mother4-01.svg"
+        },
+        {
+          "name": "mother5.svg",
+          "extension": "svg",
+          "path": "/graphics/mother5-01.svg"
+        },
+        {
+          "name": "mother6.svg",
+          "extension": "svg",
+          "path": "/graphics/mother6-01.svg"
+        },
+        {
+          "name": "mother7.svg",
+          "extension": "svg",
+          "path": "/graphics/mother7-01.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "New born",
+      "subCategoryId": 46,
+      "data": [
+        {
+          "name": "newborn-01.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-01.svg"
+        },
+        {
+          "name": "newborn-02.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-02.svg"
+        },
+        {
+          "name": "newborn-03.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-03.svg"
+        },
+        {
+          "name": "newborn-04.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-04.svg"
+        },
+        {
+          "name": "newborn-05.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-05.svg"
+        },
+        {
+          "name": "newborn-06.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-06.svg"
+        },
+        {
+          "name": "newborn-07.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-07.svg"
+        },
+        {
+          "name": "newborn-08.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-08.svg"
+        },
+        {
+          "name": "newborn-09.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-09.svg"
+        },
+        {
+          "name": "newborn-10.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-10.svg"
+        },
+        {
+          "name": "newborn-11.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-11.svg"
+        },
+        {
+          "name": "newborn-12.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-12.svg"
+        },
+        {
+          "name": "newborn-13.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-13.svg"
+        },
+        {
+          "name": "newborn-14.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-14.svg"
+        },
+        {
+          "name": "newborn-15.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-15.svg"
+        },
+        {
+          "name": "newborn-16.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-16.svg"
+        },
+        {
+          "name": "newborn-17.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-17.svg"
+        },
+        {
+          "name": "newborn-18.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-18.svg"
+        },
+        {
+          "name": "newborn-19.svg",
+          "extension": "svg",
+          "path": "/graphics/newborn-19.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Ocean",
+      "subCategoryId": 47,
+      "data": [
+        {
+          "name": "Ocean-01.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-01.svg"
+        },
+        {
+          "name": "Ocean-02.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-02.svg"
+        },
+        {
+          "name": "Ocean-03.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-03.svg"
+        },
+        {
+          "name": "Ocean-04.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-04.svg"
+        },
+        {
+          "name": "Ocean-05.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-05.svg"
+        },
+        {
+          "name": "Ocean-06.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-06.svg"
+        },
+        {
+          "name": "Ocean-07.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-07.svg"
+        },
+        {
+          "name": "Ocean-08.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-08.svg"
+        },
+        {
+          "name": "Ocean-09.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-09.svg"
+        },
+        {
+          "name": "Ocean-10.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-10.svg"
+        },
+        {
+          "name": "Ocean-11.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-11.svg"
+        },
+        {
+          "name": "Ocean-12.svg",
+          "extension": "svg",
+          "path": "/graphics/Ocean-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Origami",
+      "subCategoryId": 48,
+      "data": [
+        {
+          "name": "origami2-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami2-01.svg"
+        },
+        {
+          "name": "origami3-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami3-01.svg"
+        },
+        {
+          "name": "origami4-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami4-01.svg"
+        },
+        {
+          "name": "origami5-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami5-01.svg"
+        },
+        {
+          "name": "origami6-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami6-01.svg"
+        },
+        {
+          "name": "origami7-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami7-01.svg"
+        },
+        {
+          "name": "origami8-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami8-01.svg"
+        },
+        {
+          "name": "origami9-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami9-01.svg"
+        },
+        {
+          "name": "origami10-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami10-01.svg"
+        },
+        {
+          "name": "origami11-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami11-01.svg"
+        },
+        {
+          "name": "origami12-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami12-01.svg"
+        },
+        {
+          "name": "origami-01.svg",
+          "extension": "svg",
+          "path": "/graphics/origami-01.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Patterns",
+      "subCategoryId": 49,
+      "data": [
+        {
+          "name": "pattern-01.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-01.svg"
+        },
+        {
+          "name": "pattern-02.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-02.svg"
+        },
+        {
+          "name": "pattern-03.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-03.svg"
+        },
+        {
+          "name": "pattern-04.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-04.svg"
+        },
+        {
+          "name": "pattern-06.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-06.svg"
+        },
+        {
+          "name": "pattern-07.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-07.svg"
+        },
+        {
+          "name": "pattern-09.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-09.svg"
+        },
+        {
+          "name": "pattern-10.svg",
+          "extension": "svg",
+          "path": "/graphics/pattern-10.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Plants",
+      "subCategoryId": 50,
+      "data": [
+        {
+          "name": "plants-01.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-01.svg"
+        },
+        {
+          "name": "plants-02.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-02.svg"
+        },
+        {
+          "name": "plants-03.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-03.svg"
+        },
+        {
+          "name": "plants-04.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-04.svg"
+        },
+        {
+          "name": "plants-05.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-05.svg"
+        },
+        {
+          "name": "plants-06.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-06.svg"
+        },
+        {
+          "name": "plants-07.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-07.svg"
+        },
+        {
+          "name": "plants-08.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-08.svg"
+        },
+        {
+          "name": "plants-09.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-09.svg"
+        },
+        {
+          "name": "plants-10.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-10.svg"
+        },
+        {
+          "name": "plants-11.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-11.svg"
+        },
+        {
+          "name": "plants-12.svg",
+          "extension": "svg",
+          "path": "/graphics/plants-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Professions",
+      "subCategoryId": 51,
+      "data": [
+        {
+          "name": "professions-01.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-01.svg"
+        },
+        {
+          "name": "professions-02.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-02.svg"
+        },
+        {
+          "name": "professions-03.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-03.svg"
+        },
+        {
+          "name": "professions-04.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-04.svg"
+        },
+        {
+          "name": "professions-05.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-05.svg"
+        },
+        {
+          "name": "professions-06.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-06.svg"
+        },
+        {
+          "name": "professions-07.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-07.svg"
+        },
+        {
+          "name": "professions-08.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-08.svg"
+        },
+        {
+          "name": "professions-09.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-09.svg"
+        },
+        {
+          "name": "professions-10.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-10.svg"
+        },
+        {
+          "name": "professions-11.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-11.svg"
+        },
+        {
+          "name": "professions-12.svg",
+          "extension": "svg",
+          "path": "/graphics/professions-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Robotics",
+      "subCategoryId": 52,
+      "data": [
+        {
+          "name": "robot-01.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-01.svg"
+        },
+        {
+          "name": "robot-02.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-02.svg"
+        },
+        {
+          "name": "robot-03.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-03.svg"
+        },
+        {
+          "name": "robot-04.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-04.svg"
+        },
+        {
+          "name": "robot-05.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-05.svg"
+        },
+        {
+          "name": "robot-06.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-06.svg"
+        },
+        {
+          "name": "robot-07.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-07.svg"
+        },
+        {
+          "name": "robot-08.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-08.svg"
+        },
+        {
+          "name": "robot-09.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-09.svg"
+        },
+        {
+          "name": "robot-10.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-10.svg"
+        },
+        {
+          "name": "robot-11.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-11.svg"
+        },
+        {
+          "name": "robot-12.svg",
+          "extension": "svg",
+          "path": "/graphics/robot-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Science",
+      "subCategoryId": 53,
+      "data": [
+        {
+          "name": "science-01.svg",
+          "extension": "svg",
+          "path": "/graphics/science-01.svg"
+        },
+        {
+          "name": "science-02.svg",
+          "extension": "svg",
+          "path": "/graphics/science-02.svg"
+        },
+        {
+          "name": "science-03.svg",
+          "extension": "svg",
+          "path": "/graphics/science-03.svg"
+        },
+        {
+          "name": "science-04.svg",
+          "extension": "svg",
+          "path": "/graphics/science-04.svg"
+        },
+        {
+          "name": "science-05.svg",
+          "extension": "svg",
+          "path": "/graphics/science-05.svg"
+        },
+        {
+          "name": "science-06.svg",
+          "extension": "svg",
+          "path": "/graphics/science-06.svg"
+        },
+        {
+          "name": "science-07.svg",
+          "extension": "svg",
+          "path": "/graphics/science-07.svg"
+        },
+        {
+          "name": "science-08.svg",
+          "extension": "svg",
+          "path": "/graphics/science-08.svg"
+        },
+        {
+          "name": "science-09.svg",
+          "extension": "svg",
+          "path": "/graphics/science-09.svg"
+        },
+        {
+          "name": "science-10.svg",
+          "extension": "svg",
+          "path": "/graphics/science-10.svg"
+        },
+        {
+          "name": "science-11.svg",
+          "extension": "svg",
+          "path": "/graphics/science-11.svg"
+        },
+        {
+          "name": "science-12.svg",
+          "extension": "svg",
+          "path": "/graphics/science-12.svg"
+        },
+        {
+          "name": "science-13.svg",
+          "extension": "svg",
+          "path": "/graphics/science-13.svg"
+        },
+        {
+          "name": "science-14.svg",
+          "extension": "svg",
+          "path": "/graphics/science-14.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Social Media",
+      "subCategoryId": 54,
+      "data": [
+        {
+          "name": "socialmedia-01.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-01.svg"
+        },
+        {
+          "name": "socialmedia-02.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-02.svg"
+        },
+        {
+          "name": "socialmedia-03.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-03.svg"
+        },
+        {
+          "name": "socialmedia-04.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-04.svg"
+        },
+        {
+          "name": "socialmedia-05.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-05.svg"
+        },
+        {
+          "name": "socialmedia-06.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-06.svg"
+        },
+        {
+          "name": "socialmedia-07.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-07.svg"
+        },
+        {
+          "name": "socialmedia-08.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-08.svg"
+        },
+        {
+          "name": "socialmedia-09.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-09.svg"
+        },
+        {
+          "name": "socialmedia-10.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-10.svg"
+        },
+        {
+          "name": "socialmedia-11.svg",
+          "extension": "svg",
+          "path": "/graphics/socialmedia-11.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Space",
+      "subCategoryId": 55,
+      "data": [
+        {
+          "name": "astronaut-01.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-01.svg"
+        },
+        {
+          "name": "astronaut-02.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-02.svg"
+        },
+        {
+          "name": "astronaut-03.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-03.svg"
+        },
+        {
+          "name": "astronaut-04.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-04.svg"
+        },
+        {
+          "name": "astronaut-05.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-05.svg"
+        },
+        {
+          "name": "astronaut-06.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-06.svg"
+        },
+        {
+          "name": "astronaut-07.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-07.svg"
+        },
+        {
+          "name": "astronaut-8-01.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-8-01.svg"
+        },
+        {
+          "name": "astronaut-8-3-01.svg",
+          "extension": "svg",
+          "path": "/graphics/astronaut-8-3-01.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Speech Bubbles",
+      "subCategoryId": 56,
+      "data": [
+        {
+          "name": "bubblespeech-01.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-01.svg"
+        },
+        {
+          "name": "bubblespeech-02.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-02.svg"
+        },
+        {
+          "name": "bubblespeech-03.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-03.svg"
+        },
+        {
+          "name": "bubblespeech-04.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-04.svg"
+        },
+        {
+          "name": "bubblespeech-05.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-05.svg"
+        },
+        {
+          "name": "bubblespeech-06.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-06.svg"
+        },
+        {
+          "name": "bubblespeech-07.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-07.svg"
+        },
+        {
+          "name": "bubblespeech-08.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-08.svg"
+        },
+        {
+          "name": "bubblespeech-09.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-09.svg"
+        },
+        {
+          "name": "bubblespeech-10.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-10.svg"
+        },
+        {
+          "name": "bubblespeech-11.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-11.svg"
+        },
+        {
+          "name": "bubblespeech-12.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-12.svg"
+        },
+        {
+          "name": "bubblespeech-13.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-13.svg"
+        },
+        {
+          "name": "bubblespeech-14.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-14.svg"
+        },
+        {
+          "name": "bubblespeech-15.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-15.svg"
+        },
+        {
+          "name": "bubblespeech-16.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-16.svg"
+        },
+        {
+          "name": "bubblespeech-17.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-17.svg"
+        },
+        {
+          "name": "bubblespeech-18.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-18.svg"
+        },
+        {
+          "name": "bubblespeech-19.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-19.svg"
+        },
+        {
+          "name": "bubblespeech-20.svg",
+          "extension": "svg",
+          "path": "/graphics/bubblespeech-20.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Sports",
+      "subCategoryId": 57,
+      "data": [
+        {
+          "name": "sports-01.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-01.svg"
+        },
+        {
+          "name": "sports-02.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-02.svg"
+        },
+        {
+          "name": "sports-03.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-03.svg"
+        },
+        {
+          "name": "sports-04.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-04.svg"
+        },
+        {
+          "name": "sports-05.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-05.svg"
+        },
+        {
+          "name": "sports-06.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-06.svg"
+        },
+        {
+          "name": "sports-07.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-07.svg"
+        },
+        {
+          "name": "sports-08.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-08.svg"
+        },
+        {
+          "name": "sports-09.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-09.svg"
+        },
+        {
+          "name": "sports-10.svg",
+          "extension": "svg",
+          "path": "/graphics/sports-10.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Sweets",
+      "subCategoryId": 58,
+      "data": [
+        {
+          "name": "sweets-01.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-01.svg"
+        },
+        {
+          "name": "sweets-02.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-02.svg"
+        },
+        {
+          "name": "sweets-03.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-03.svg"
+        },
+        {
+          "name": "sweets-04.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-04.svg"
+        },
+        {
+          "name": "sweets-05.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-05.svg"
+        },
+        {
+          "name": "sweets-06.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-06.svg"
+        },
+        {
+          "name": "sweets-07.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-07.svg"
+        },
+        {
+          "name": "sweets-08.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-08.svg"
+        },
+        {
+          "name": "sweets-09.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-09.svg"
+        },
+        {
+          "name": "sweets-10.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-10.svg"
+        },
+        {
+          "name": "sweets-11.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-11.svg"
+        },
+        {
+          "name": "sweets-12.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-12.svg"
+        },
+        {
+          "name": "sweets-13.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-13.svg"
+        },
+        {
+          "name": "sweets-14.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-14.svg"
+        },
+        {
+          "name": "sweets-15.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-15.svg"
+        },
+        {
+          "name": "sweets-16.svg",
+          "extension": "svg",
+          "path": "/graphics/sweets-16.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Textbox",
+      "subCategoryId": 59,
+      "data": [
+        {
+          "name": "textbox-01.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-01.svg"
+        },
+        {
+          "name": "textbox-02.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-02.svg"
+        },
+        {
+          "name": "textbox-03.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-03.svg"
+        },
+        {
+          "name": "textbox-04.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-04.svg"
+        },
+        {
+          "name": "textbox-05.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-05.svg"
+        },
+        {
+          "name": "textbox-06.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-06.svg"
+        },
+        {
+          "name": "textbox-07.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-07.svg"
+        },
+        {
+          "name": "textbox-08.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-08.svg"
+        },
+        {
+          "name": "textbox-09.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-09.svg"
+        },
+        {
+          "name": "textbox-10.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-10.svg"
+        },
+        {
+          "name": "textbox-11.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-11.svg"
+        },
+        {
+          "name": "textbox-12.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-12.svg"
+        },
+        {
+          "name": "textbox-13.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-13.svg"
+        },
+        {
+          "name": "textbox-14.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-14.svg"
+        },
+        {
+          "name": "textbox-15.svg",
+          "extension": "svg",
+          "path": "/graphics/textbox-15.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Treble clef",
+      "subCategoryId": 60,
+      "data": [
+        {
+          "name": "music-01.svg",
+          "extension": "svg",
+          "path": "/graphics/music-01.svg"
+        },
+        {
+          "name": "music-02.svg",
+          "extension": "svg",
+          "path": "/graphics/music-02.svg"
+        },
+        {
+          "name": "music-03.svg",
+          "extension": "svg",
+          "path": "/graphics/music-03.svg"
+        },
+        {
+          "name": "music-04.svg",
+          "extension": "svg",
+          "path": "/graphics/music-04.svg"
+        },
+        {
+          "name": "music-05.svg",
+          "extension": "svg",
+          "path": "/graphics/music-05.svg"
+        },
+        {
+          "name": "music-06.svg",
+          "extension": "svg",
+          "path": "/graphics/music-06.svg"
+        },
+        {
+          "name": "music-07.svg",
+          "extension": "svg",
+          "path": "/graphics/music-07.svg"
+        },
+        {
+          "name": "music-08.svg",
+          "extension": "svg",
+          "path": "/graphics/music-08.svg"
+        },
+        {
+          "name": "music-09.svg",
+          "extension": "svg",
+          "path": "/graphics/music-09.svg"
+        },
+        {
+          "name": "music-10.svg",
+          "extension": "svg",
+          "path": "/graphics/music-10.svg"
+        },
+        {
+          "name": "music-11.svg",
+          "extension": "svg",
+          "path": "/graphics/music-11.svg"
+        },
+        {
+          "name": "music-12.svg",
+          "extension": "svg",
+          "path": "/graphics/music-12.svg"
+        },
+        {
+          "name": "music-13.svg",
+          "extension": "svg",
+          "path": "/graphics/music-13.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Vegetables",
+      "subCategoryId": 61,
+      "data": [
+        {
+          "name": "vegetables-01.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-01.svg"
+        },
+        {
+          "name": "vegetables-02.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-02.svg"
+        },
+        {
+          "name": "vegetables-03.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-03.svg"
+        },
+        {
+          "name": "vegetables-04.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-04.svg"
+        },
+        {
+          "name": "vegetables-05.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-05.svg"
+        },
+        {
+          "name": "vegetables-06.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-06.svg"
+        },
+        {
+          "name": "vegetables-07.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-07.svg"
+        },
+        {
+          "name": "vegetables-08.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-08.svg"
+        },
+        {
+          "name": "vegetables-09.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-09.svg"
+        },
+        {
+          "name": "vegetables-10.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-10.svg"
+        },
+        {
+          "name": "vegetables-11.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-11.svg"
+        },
+        {
+          "name": "vegetables-12.svg",
+          "extension": "svg",
+          "path": "/graphics/vegetables-12.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Vehicles",
+      "subCategoryId": 62,
+      "data": [
+        {
+          "name": "vehicles-01.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-01.svg"
+        },
+        {
+          "name": "vehicles-02.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-02.svg"
+        },
+        {
+          "name": "vehicles-03.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-03.svg"
+        },
+        {
+          "name": "vehicles-04.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-04.svg"
+        },
+        {
+          "name": "vehicles-05.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-05.svg"
+        },
+        {
+          "name": "vehicles-06.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-06.svg"
+        },
+        {
+          "name": "vehicles-07.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-07.svg"
+        },
+        {
+          "name": "vehicles-08.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-08.svg"
+        },
+        {
+          "name": "vehicles-09.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-09.svg"
+        },
+        {
+          "name": "vehicles-10.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-10.svg"
+        },
+        {
+          "name": "vehicles-11.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-11.svg"
+        },
+        {
+          "name": "vehicles-12.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-12.svg"
+        },
+        {
+          "name": "vehicles-13.svg",
+          "extension": "svg",
+          "path": "/graphics/vehicles-13.svg"
+        }
+      ]
+    },
+    {
+      "subCategoryName": "Zodiac Signs",
+      "subCategoryId": 63,
+      "data": [
+        {
+          "name": "zodiac1-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac1-01.svg"
+        },
+        {
+          "name": "zodiac2-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac2-01.svg"
+        },
+        {
+          "name": "zodiac3-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac3-01.svg"
+        },
+        {
+          "name": "zodiac4-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac4-01.svg"
+        },
+        {
+          "name": "zodiac5-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac5-01.svg"
+        },
+        {
+          "name": "zodiac6-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac6-01.svg"
+        },
+        {
+          "name": "zodiac7-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac7-01.svg"
+        },
+        {
+          "name": "zodiac8-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac8-01.svg"
+        },
+        {
+          "name": "zodiac9-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac9-01.svg"
+        },
+        {
+          "name": "zodiac10-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac10-01.svg"
+        },
+        {
+          "name": "zodiac11-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac11-01.svg"
+        },
+        {
+          "name": "zodiac12-01.svg",
+          "extension": "svg",
+          "path": "/graphics/zodiac12-01.svg"
+        }
+      ]
+    }
+  ]
+}

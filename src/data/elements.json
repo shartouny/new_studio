@@ -1,0 +1,101 @@
+[
+  {
+    "categorieName": "Line & Shapes",
+    "categorieId": 1,
+    "panelView": 5,
+    "hasSubCategory": false,
+    "data": [
+      {
+        "name": "shape1-01.svg",
+        "extension": "svg",
+        "path": "/linesAndShapes/shape1-01.svg"
+      },
+      {
+        "name": "shape2-01.svg",
+        "extension": "svg",
+        "path": "/linesAndShapes/shape2-01.svg"
+      },
+      {
+        "name": "shape3-01.svg",
+        "extension": "svg",
+        "path": "/linesAndShapes/shape3-01.svg"
+      },
+      {
+        "name": "shape4-01.svg",
+        "extension": "svg",
+        "path": "/linesAndShapes/shape4-01.svg"
+      },
+      {
+        "name": "shape7-01.svg",
+        "extension": "svg",
+        "path": "/linesAndShapes/shape7-01.svg"
+      },
+      {
+        "name": "shape7-01.svg",
+        "extension": "svg",
+        "path": "/linesAndShapes/shape7-01.svg"
+      }
+    ]
+  },
+  {
+    "categorieName": "Graphics",
+    "categorieId": 2,
+    "panelView": 4,
+    "hasSubCategory": true,
+    "data": [
+      {
+        "name": "4thofjuly1.svg",
+        "extension": "svg",
+        "path": "/graphics/4thofjuly1.svg"
+      },
+      {
+        "name": "christmas1.svg",
+        "extension": "svg",
+        "path": "/graphics/christmas1.svg"
+      },
+      {
+        "name": "fatherday1.svg",
+        "extension": "svg",
+        "path": "/graphics/fatherday1.svg"
+      },
+      {
+        "name": "mother2-01.svg",
+        "extension": "svg",
+        "path": "/graphics/mother2-01.svg"
+      },
+      {
+        "name": "mother2-01.svg",
+        "extension": "svg",
+        "path": "/graphics/mother2-01.svg"
+      }
+    ]
+  },
+  {
+    "categorieName": "Photos",
+    "categorieId": 3,
+    "panelView": 3,
+    "hasSubCategory": false,
+    "data": [
+      {
+        "name": "unsplash_1L4E_lsIb9Q.png",
+        "extension": "png",
+        "path": "/photos/unsplash_1L4E_lsIb9Q.png"
+      },
+      {
+        "name": "unsplash_1LLh8k2_YFk.png",
+        "extension": "png",
+        "path": "/photos/unsplash_1LLh8k2_YFk.png"
+      },
+      {
+        "name": "unsplash_3bh3elC0D7M.png",
+        "extension": "png",
+        "path": "/photos/unsplash_3bh3elC0D7M.png"
+      },
+      {
+        "name": "unsplash_3bh3elC0D7M.png",
+        "extension": "png",
+        "path": "/photos/unsplash_3bh3elC0D7M.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+div.chrome-picker > div:nth-child(2) > div:first-child > div:first-child,
+div.chrome-picker > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) {
+  display: none !important;
+}
+div.chrome-picker .flexbox-fix label {
+  display: none !important;
+}
+
+div.chrome-picker .flexbox-fix input {
+  border: 1px solid #2b3377 !important;
+  color: #2b3377 !important;
+}

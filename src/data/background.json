@@ -1,0 +1,86 @@
+{
+  "defaultColors": [
+    "black",
+    "#443E3E",
+    "#999999",
+    "#CCCCCC",
+    "#EEEEEE",
+    "#FFFFFF",
+    "#FF0101",
+    "#D62D30",
+    "#EA1A65",
+    "#F16393",
+    "#AC6BAD",
+    "#783294",
+    "#0B7A6A",
+    "#1998A7",
+    "#15499F",
+    "#70B2E2",
+    "#2B74B9",
+    "#15499F",
+    "#1C6031",
+    "#69A042",
+    "#8AC44B",
+    "#F9ED37",
+    "#FCC02A",
+    "#F58020"
+  ],
+  "sections": [
+    {
+      "backgroundCategorieName": "Patterns",
+      "backgroundCategorieId": 5,
+      "panelView": 3,
+      "hasSubCategory": false,
+      "data": [
+        {
+          "name": "unsplash_1Q6gfwHc5GI.png",
+          "extension": "png",
+          "path": "/patterns/unsplash_1Q6gfwHc5GI.png"
+        },
+        {
+          "name": "unsplash_5YM26lUicfU.png",
+          "extension": "png",
+          "path": "/patterns/unsplash_5YM26lUicfU.png"
+        },
+        {
+          "name": "unsplash_78IbQG8I5M0.png",
+          "extension": "png",
+          "path": "/patterns/unsplash_78IbQG8I5M0.png"
+        },
+        {
+          "name": "unsplash_78IbQG8I5M0.png",
+          "extension": "png",
+          "path": "/patterns/unsplash_78IbQG8I5M0.png"
+        }
+      ]
+    },
+    {
+      "backgroundCategorieName": "Wallpapers",
+      "backgroundCategorieId": 6,
+      "panelView": 3,
+      "hasSubCategory": false,
+      "data": [
+        {
+          "name": "unsplash_0ZPSX_mQ3xI.png",
+          "extension": "png",
+          "path": "/wallpapers/unsplash_0ZPSX_mQ3xI.png"
+        },
+        {
+          "name": "unsplash_6lQDFGOB1iw.png",
+          "extension": "png",
+          "path": "/wallpapers/unsplash_6lQDFGOB1iw.png"
+        },
+        {
+          "name": "unsplash_8uZPynIu-rQ.png",
+          "extension": "png",
+          "path": "/wallpapers/unsplash_8uZPynIu-rQ.png"
+        },
+        {
+          "name": "unsplash_8uZPynIu-rQ.png",
+          "extension": "png",
+          "path": "/wallpapers/unsplash_8uZPynIu-rQ.png"
+        }
+      ]
+    }
+  ]
+}
